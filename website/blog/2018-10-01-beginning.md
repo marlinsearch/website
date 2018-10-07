@@ -10,4 +10,6 @@ Anyway.. the plan is to build a simple, scalable, superfast, search and analytic
 
 I have never tried blogging before and this blog is my attempt in getting that out of the way.  If I am not bored, will continue to update the blog regularly about the development, my thought process and decisions made through the course of building MarlinSearch.
 
-PS: Why MarlinSearch?  Marlin is said to be one of the fastest fish in the ocean and I got the domain you are reading this blog on :)
+I plan on getting this to a useable state hopefully before the thanksgiving holidays.  I should be able to work a few hours every night on this.
+
+PS: Why MarlinSearch?  Marlin is one of the fastest fish in the ocean and I got the domain you are reading this blog on :)
